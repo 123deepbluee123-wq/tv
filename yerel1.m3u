@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="YEREL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="YEREL",TRT 1
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="YEREL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="YEREL",TRT 1
 http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KANALD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="YEREL",KANAL D 
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
@@ -39,9 +39,9 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://116.202.238.88/CNNTURK_TR/index.m3u8
 #EXTINF:-1 tvg-name="AHABER " tvg-id="AHABER.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="YEREL",AHABER
 http://116.202.238.88/AHABER_TR/index.m3u8
-#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="YEREL",HABERTURK
+#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK.tr" tvg-logo="https://imgs.mfsite.cc/hbturkfhd.png" group-title="YEREL",HABERTURK
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="YEREL",HABERTURK
+#EXTINF:-1 tvg-name="HABERTURK" tvg-id="HABERTURK.tr" tvg-logo="https://imgs.mfsite.cc/hbturkfhd.png" group-title="YEREL",HABERTURK
 https://tv.ensonhaber.com/haberturk/haberturk_720p.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV 100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="YEREL",TV 100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
